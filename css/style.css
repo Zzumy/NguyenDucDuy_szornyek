@@ -32,7 +32,13 @@ nav a:hover{
 }
 
 article{
+    background-color: black;
     padding: 5px;
+    display: grid;
+    display:grid; 
+    grid-gap: 10px; 
+    grid-template-columns: 110px 110px 110px 110px ;
+    
 }
 
 article div{
